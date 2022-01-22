@@ -23,3 +23,4 @@ RUN apk add --no-cache --update git \
 WORKDIR /app
 
 ENTRYPOINT ["phpinsights"]
+f
